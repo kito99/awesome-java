@@ -592,8 +592,10 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Something to listen to while programming.*
 
+* [Enterprise Java Newscast](http://enterprisejavanews.com) - Monthly podcast that covers the latest headlines in the world of Enterprise JVM development and related technologies.
 * [The Java Council](http://virtualjug.com/podcast/)
 * [The Java Posse](http://www.javaposse.com/) - Discontinued as of 02/2015.
+
 
 ## Twitter
 
@@ -612,6 +614,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Java.net](https://twitter.com/javanetbuzz/) - Official Java.net account.
 * [Java](https://twitter.com/java/) - Official Java Twitter account.
 * [Javin Paul](https://twitter.com/javinpaul) - Well-known Java blogger.
+* [Kito Mann](https://twitter.com/kito99) - JSF, PrimeFaces and Java EE expert, author, speaker, consultant, and trainer.
 * [Lukas Eder](https://twitter.com/lukaseder) - Founder and CEO Data Geekery (jOOQ).
 * [Mario Fusco](https://twitter.com/mariofusco) - RedHatter, JUG coordinator, frequent speaker and author.
 * [Mark Reinhold](https://twitter.com/mreinhold) - Chief Architect, Java Platform Group, Oracle.
